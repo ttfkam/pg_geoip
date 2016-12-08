@@ -1,0 +1,7 @@
+# geoip extension
+# Miles Elam <miles@geekspeak.org>
+# Depends on plpgsql
+
+comment = 'geolocation using MaxMind geoip location files'
+default_version = '1.0.0'
+relocatable = true
